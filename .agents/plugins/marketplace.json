@@ -1,0 +1,20 @@
+{
+  "name": "carousel-design-playbook",
+  "interface": {
+    "displayName": "Carousel Design Playbook"
+  },
+  "plugins": [
+    {
+      "name": "carousel-playbook-kit",
+      "source": {
+        "source": "local",
+        "path": "./plugins/carousel-playbook-kit"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

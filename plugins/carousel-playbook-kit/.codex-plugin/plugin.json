@@ -1,0 +1,21 @@
+{
+  "interface": {
+    "composerIcon": "./assets/carousel.svg",
+    "defaultPrompt": "Plan an Instagram carousel from my topic, then turn the slide plan into image prompts.",
+    "developerName": "Umar Fareez",
+    "displayName": "Carousel Playbook Kit",
+    "logo": "./assets/carousel.svg",
+    "longDescription": "Use Carousel Copy to plan and audit slides, Carousel Copywriter to write educational Instagram stories that lead into an offer, and Design Taste to turn a slide plan into consistent image prompts.",
+    "shortDescription": "Carousel copy and slide design",
+    "category": "Other",
+    "capabilities": []
+  },
+  "name": "carousel-playbook-kit",
+  "version": "1.1.0",
+  "description": "Plan and audit Instagram and LinkedIn carousel copy, then turn the slide plan into consistent image prompts.",
+  "author": {
+    "name": "Umar Fareez"
+  },
+  "keywords": [],
+  "skills": "./skills"
+}

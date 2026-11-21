@@ -1,0 +1,10 @@
+{
+  "name": "carousel-playbook-kit",
+  "version": "1.1.0",
+  "description": "Plan and audit Instagram and LinkedIn carousel copy, then turn the slide plan into consistent image prompts.",
+  "author": {
+    "name": "Umar Fareez"
+  },
+  "repository": "https://github.com/rusticmarketer/carousel-design-playbook",
+  "icon": "./assets/carousel.svg"
+}

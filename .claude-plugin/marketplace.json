@@ -1,0 +1,16 @@
+{
+  "name": "carousel-design-playbook",
+  "owner": {
+    "name": "rusticmarketer"
+  },
+  "plugins": [
+    {
+      "name": "carousel-playbook-kit",
+      "source": "./plugins/carousel-playbook-kit",
+      "description": "Plan and audit Instagram and LinkedIn carousel copy, then turn the slide plan into consistent image prompts."
+    }
+  ],
+  "metadata": {
+    "description": "Plan, write, and design social carousels with Carousel Playbook Kit."
+  }
+}
